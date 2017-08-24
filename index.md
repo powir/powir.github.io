@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## 目的
+日本国内における情報検索研究の国際的プレゼンスを向上するために、主要国際会議に投稿予定の原稿に対し、有志委員によるフィードバックと議論の場（ワークショップ）を提供すること。開催は年4回とし、以下の想定会議を主な対象とする。
 
-You can use the [editor on GitHub](https://github.com/powir/powir.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 年間スケジュール
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| 名称 | 時期 | 想定会議 |
+| :--: | :--: | :--: |
+| POWIR Spring | 3-4月 | ICTIR / CIKM |
+| POWIR Summer | 7-8月 | AIRS / WSDM |
+| POWIR Autumn | 9-10月 | CHIIR / ECIR / The Web（旧WWW） |
+| POWIR Winter | 12-1月 | SIGIR / JCDL |
 
-### Markdown
+## POWIR 2017 Autumn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### スケジュール
+| 日付 | イベント |
+| :--: | :-- |
+| 2017/09/08 | アブストラクト投稿締切 |
+| 2017/09/15 | 予稿投稿締切 |
+| 2017/09/16-21 | 予稿へのコメント投稿 |
+| 2017/09/22 | POWIR 2017 Autumn |
 
-```markdown
-Syntax highlighted code block
+### 投稿先
+https://easychair.org/conferences/?conf=powir17autumn
 
-# Header 1
-## Header 2
-### Header 3
+### 会場
+調整中
 
-- Bulleted
-- List
+### 有志委員
+- 大島 裕明 （兵庫県立大学）
+- 加藤 誠 （京都大学）
+- 欅 惇志 （東京工業大学）
+- 酒井 哲也 （早稲田大学）
+- 上保 秀夫 （筑波大学）
+- 山本 岳洋 （京都大学）
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## POWIR参加における注意点
 
-[Link](url) and ![Image](src)
-```
+POWIRへの参加は、以下の内容に同意したとみなします。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 参加は、完全事前登録制とする。
+- 参加は、想定会議への投稿を前提とする。
+- 参加は、ショート・フルに関わらず上限ページ数の7割を超えている予稿のみとする。
+- 参加は、予稿論文著者全員の了承を得ることを必須とする。
+- 参加者は、本ワークショップに投稿された原稿内容やコメントに対して守秘義務を負う。
+- 本ワークショップでは、専門用語や分野特有の言い回しなどの表現以外の英文校閲は行わない。
+- 本ワークショップは、ダブルブラインド制度を採用する。
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/powir/powir.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 発起人
 
-### Support or Contact
+（五十音順）
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 大島 裕明 （兵庫県立大学）
+- 加藤 誠 （京都大学）
+- 欅 惇志 （東京工業大学）
+- 酒井 哲也 （早稲田大学）
+- 上保 秀夫 （筑波大学）
+- 山本 岳洋 （京都大学）
