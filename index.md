@@ -24,7 +24,7 @@ POWIR 2017 Autumnでは、10月が投稿締切の[CHIIR 2018](http://sigir.org/c
 | 2017/09/22 | POWIR 2017 Autumn |
 
 ### 投稿先
-https://easychair.org/conferences/?conf=powir17autumn
+https://easychair.org/cfp/powir17autumn
 
 ### 会場
 調整中
