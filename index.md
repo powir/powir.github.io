@@ -27,7 +27,7 @@ POWIR 2017 Autumnでは、10月が投稿締切の[CHIIR 2018](http://sigir.org/c
 [https://easychair.org/cfp/powir17autumn](https://easychair.org/cfp/powir17autumn)
 
 ### 会場
-早稲田大学（詳細は調整中）
+[早稲田大学西早稲田キャンパス63-05-06](https://www.waseda.jp/top/access/nishiwaseda-campus)
 
 ### 有志委員
 - 大島 裕明 （兵庫県立大学）
